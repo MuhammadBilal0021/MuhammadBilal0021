@@ -108,7 +108,7 @@ AI-driven lead generation & qualification pipeline.
 
 <div align="center">
 
-### ♟️ Grandmaster-certified chess player | 🇵🇰 Based in Islamabad | 🌍 Open to remote & Gulf opportunities
+###  🌍 Open to remote & Gulf opportunities
 
 ⭐ **If you find my work useful, consider giving my repos a star!**
 
