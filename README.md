@@ -25,7 +25,6 @@ education:    BS Software Engineering, SZABIST Islamabad
               4-year programme, 8 semesters, 130+ credit hours · HEC-recognised · NCEAC-accredited
 focus:        [LangGraph, multi-agent orchestration, RAG, voice agents, agent control layers, FastAPI]
 currently:    AI Engineer (Agentic Systems) at Zaptal — production multi-agent + voice AI
-fun_fact:     Grandmaster-certified chess player ♟️ (National Chess Federation of Pakistan)
 ```
 
 I moved from classical NLP → full-stack client delivery → production agentic AI in under two years. Most of the agentic depth below is **self-directed**: the projects section is independent work I built outside employment, with the commit history public.
@@ -254,8 +253,6 @@ I'm looking for **AI Engineer / LLM Engineer / Agentic Systems** roles — and I
 ---
 
 <div align="center">
-
-♟️ **Chess:** Grandmaster-certified, National Chess Federation of Pakistan — the same patience for long positions that debugging an agent loop requires.
 
 **If any of this is useful, a star on the repo is appreciated.**
 
